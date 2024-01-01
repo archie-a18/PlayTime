@@ -1,11 +1,8 @@
-<h1 align="center">Playtopia</h1>
+<h1 align="center">Playtime</h1>
 <p align="center">
 </p>
 
 <a href="https://hack36.com"> <img src="https://i.postimg.cc/RFFWF4vg/built-at-hack.jpg" height=24px> </a>
-
-## Demo Video Link:
-  <a href="https://www.youtube.com/watch?v=qDIvKMbRTgs&ab_channel=SilkieAgarwal">YouTube video link</a>
   
   
 ## Getting started:
