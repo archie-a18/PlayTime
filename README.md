@@ -1,8 +1,6 @@
 <h1 align="center">Playtime</h1>
 <p align="center">
 </p>
-
-<a href="https://hack36.com"> <img src="https://i.postimg.cc/RFFWF4vg/built-at-hack.jpg" height=24px> </a>
   
   
 ## Getting started:
@@ -56,6 +54,3 @@ If you would like to contribute to Playtopia, you can follow these steps:
 * Make your changes and commit them: git commit -m "Add new feature"
 * Push to the branch: git push origin new-feature
 * Create a pull request
-
-### Made at:
-<a href="https://hack36.com"> <img src="https://i.postimg.cc/RFFWF4vg/built-at-hack.jpg" height=24px> </a>
