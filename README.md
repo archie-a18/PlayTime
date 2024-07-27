@@ -44,10 +44,9 @@
 - User can play games like 2048 and memory game
 - In-built chatbot, which offers text-to-speech and vice versa, suggests Spotify playlists, looks up gaming facts and rules, and cracks jokes.
  
-Team Name: Naatu_Naatu_OscarWaale
 
 ## Contributing: 
-If you would like to contribute to Playtopia, you can follow these steps:
+If you would like to contribute to Playtime, you can follow these steps:
 
 * Fork the repository
 * Create a new branch: git checkout -b new-feature
